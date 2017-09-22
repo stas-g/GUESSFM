@@ -15,7 +15,6 @@ Depends:
 Imports:
     methods,
     Matrix,
-    VGAM,
     reshape,
     ggplot2,
     grid,
